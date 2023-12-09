@@ -20,10 +20,10 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <p> <i class="fas fa-phone"></i> +123-456-7890 </p>
-         <p> <i class="fas fa-phone"></i> +111-222-3333 </p>
-         <p> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </p>
-         <p> <i class="fas fa-map-marker-alt"></i> mumbai, india - 400104 </p>
+         <p> <i class="fas fa-phone"></i> +29966019 </p>
+         <p> <i class="fas fa-phone"></i> +29966019 </p>
+         <p> <i class="fas fa-envelope"></i> bookstore@gmail.com </p>
+         <p> <i class="fas fa-map-marker-alt"></i> tunis, tunisia - 400104 </p>
       </div>
 
       <div class="box">
